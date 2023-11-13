@@ -1,5 +1,5 @@
-# bowenmath.github.io
+# JiaYuhan129.github.io
 
 Repository for my personal website.
 
-https://bowenmath.github.io/
+https://JiaYuhan129.github.io/
